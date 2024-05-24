@@ -1,0 +1,8 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = supratim 
+	email = supratimdey@outlook.com.
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential

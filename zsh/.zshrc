@@ -112,3 +112,8 @@ source $ZSH/oh-my-zsh.sh
 
 export PATH=$PATH:/usr/local/go/bin
 alias nvim="snap run nvim"
+alias l="snap run lsd"
+alias ll="snap run lsd -l"
+alias lla="snap run lsd -la"
+alias la="snap run lsd -a"
+
